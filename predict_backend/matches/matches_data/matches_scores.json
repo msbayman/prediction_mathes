@@ -4,69 +4,79 @@
       "home_team": "Real Madrid",
       "away_team": "Barcelona",
       "home_score": 2,
-      "away_score": 1
+      "away_score": 1,
+      "date": "2023-09-14"
    },
    {
       "id": 2,
       "home_team": "Manchester City",
       "away_team": "Liverpool",
       "home_score": 3,
-      "away_score": 3
+      "away_score": 3,
+      "date": "2023-09-15"
    },
    {
       "id": 3,
       "home_team": "Arsenal",
       "away_team": "Chelsea",
       "home_score": 1,
-      "away_score": 0
+      "away_score": 0,
+      "date": "2023-09-16"
    },
    {
       "id": 4,
       "home_team": "Bayern Munich",
       "away_team": "Borussia Dortmund",
       "home_score": 4,
-      "away_score": 2
+      "away_score": 2,
+      "date": "2023-09-17"
    },
    {
       "id": 5,
       "home_team": "Inter Milan",
       "away_team": "AC Milan",
       "home_score": 0,
-      "away_score": 2
+      "away_score": 2,
+      "date": "2023-09-18"
    },
    {
       "id": 6,
       "home_team": "PSG",
       "away_team": "Marseille",
       "home_score": 5,
-      "away_score": 1
+      "away_score": 1,
+      "date": "2023-09-19"
    },
    {
       "id": 7,
       "home_team": "Atletico Madrid",
       "away_team": "Sevilla",
       "home_score": 1,
-      "away_score": 1
+      "away_score": 1,
+      "date": "2023-09-20"
    },
    {
       "id": 8,
       "home_team": "Juventus",
       "away_team": "Napoli",
       "home_score": 2,
-      "away_score": 3
+      "away_score": 3,
+      "date": "2023-09-21"
    },
    {
       "id": 9,
       "home_team": "Tottenham",
       "away_team": "Manchester United",
       "home_score": 1,
-      "away_score": 2
+      "away_score": 2,
+      "date": "2023-09-22"
    },
    {
       "id": 10,
       "home_team": "Ajax",
       "away_team": "Feyenoord",
       "home_score": 3,
-      "away_score": 0
+      "away_score": 0,
+      "date": "2023-09-23"
    }
 ]
