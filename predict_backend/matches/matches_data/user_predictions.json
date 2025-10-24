@@ -1,0 +1,20 @@
+[
+  {
+    "user": "'ayman'",
+    "match_id": 1,
+    "predicted_home_score": 2,
+    "predicted_away_score": 1
+  },
+  {
+    "user": "'ali'",
+    "match_id": 1,
+    "predicted_home_score": 133,
+    "predicted_away_score": 44
+  },
+  {
+    "user": "'ayman'",
+    "match_id": 3,
+    "predicted_home_score": 2,
+    "predicted_away_score": 1
+  }
+]
