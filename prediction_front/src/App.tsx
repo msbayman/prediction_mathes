@@ -1,13 +1,28 @@
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Navbar from '../components/layout/Navbar';
+import Leaderboard from '../pages/Leaderboard';
+import Matches from '../pages/Matches';
+import Predictions from '../pages/Predictions';
+import SubmitPrediction from '../pages/SubmitPrediction';
+import './App.css';
 
-
-function App() {
+const App: React.FC = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <h1 className="text-4xl text-amber-300">
-        Hello, Tailwind with xReact and Vite!
-      </h1>
-    </div>
+    <Router>
+      <div className="App">
+        <Navbar />
+        <main className="main-content">
+          <Routes>
+            <Route path="/" element={<Leaderboard />} />
+            <Route path="/matches" element={<Matches />} />
+            <Route path="/predictions" element={<Predictions />} />
+            <Route path="/submit-prediction" element={<SubmitPrediction />} />
+          </Routes>
+        </main>
+      </div>
+    </Router>
   );
-}
+};
 
 export default App;

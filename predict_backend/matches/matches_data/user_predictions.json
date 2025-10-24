@@ -1,20 +1,32 @@
 [
   {
-    "user": "'ayman'",
+    "user": "ayman",
     "match_id": 1,
     "predicted_home_score": 2,
     "predicted_away_score": 1
   },
   {
-    "user": "'ali'",
+    "user": "ali",
     "match_id": 1,
     "predicted_home_score": 133,
     "predicted_away_score": 44
   },
   {
-    "user": "'ayman'",
+    "user": "ayman",
     "match_id": 3,
     "predicted_home_score": 2,
     "predicted_away_score": 1
+  },
+  {
+    "user": "hamza",
+    "match_id": 10,
+    "predicted_home_score": 10,
+    "predicted_away_score": 20
+  },
+  {
+    "user": "hamza",
+    "match_id": 57,
+    "predicted_home_score": 24,
+    "predicted_away_score": 3232
   }
 ]
